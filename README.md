@@ -1,4 +1,4 @@
-# Crop Recommendation Using Machine Learning
+# Crop Recommendation Using Machine Learning (01/2023)
 
 ## Table of Contents
 
@@ -79,7 +79,7 @@ Before you begin, make sure you have the following prerequisites:
 
 If you have any questions, suggestions, or feedback, please contact the project maintainer:
 
-- **Maintainer**: Nguyen Tu Huy
+- **Author**: Nguyen Tu Huy
 - **Email**: nguyentuhuy1951999@gmail.com
 
 
